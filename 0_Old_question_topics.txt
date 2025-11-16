@@ -1,0 +1,73 @@
+
+
+
+quick sort ( for array) vs merge sort ( for linked list)
+Merge sort vs. insersion sort . Examples and complexities
+stack vs. queue
+
+IP Subnetting example, OSI reference model, TCP/IP, TCP vs UDP
+Strobe vs handshake protocol, bandwidth
+Firewall? diagram in local network?
+ISDN interface and services
+
+SRS Document, COCCOMO MOdel, ways for Software maintainance
+
+online learning, online security challenges
+Nepal Cyber law?
+
+
+e-governance ICT infrastr needs, 
+virtualization : full vs. para virtualization
+Data management in cloud
+
+multi-threaded architecture and parallel processing system
+process scheduling examples, FUnction of OS, CPU bound and I/O bound process, virtual memory
+Deadlock and deadlock avaoidance 
+multiprocessing and multi tasking
+General OS vs RTOS
+micro operation? four categories?
+synchronous and asynchronous counter. Design 3-bit synchronous counter
+
+
+
+binary logic, Example: binary addition of two decimal numbers
+8085 vs 8086, RISC vs CISC
+pipelining
+microcontroller vs microprocessor
+enhabced DRAM vs Conventional DRAM?
+CMOS transister shown as COmplementart MOS? diagram of CMOS NAND, CMOS NOR gate
+Shannon-Fano coding, HUffmann coding
+
+non-restoring division algorithm and example
+
+Explain: why smoothing by low pass filter can prevent aliasing?
+
+Distributed System Characteristics
+
+NLP, FUzzy logic , FUzzy inference example
+COllaborative Filtering, 1-class vs multi class example
+supervised vs. unsupervised learning
+
+DBMS metirs, normalization merits/ example
+CRUD operation , DB JOIN
+Different types of SQL queries
+
+
+
+TU Questions::
+Pedagogic approaches/methods ? which is best for teaching computer engineeing?
+Responsibility of Academic COuncil, Faculty board (page 51), subject committee of TU?
+FUnctions and duties of TU?
+Challenges of Higher education in Nepal?
+Higher education policy of nepal? ( PAGE 30 of PDF)
+TU Service commition chairman responsibilities?
+Executive council -> composition and authority
+Dean of engineering faculty
+REgistrar of TU
+
+
+
+Curriculumn:
+
+compare different degree by: BE and ME/MSc by TU/PU/KU/Purbanchal Uni / DataScience Masters
+Syllabus of main subjects like: C, Database, CN, DSA, Security
